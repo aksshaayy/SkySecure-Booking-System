@@ -32,4 +32,4 @@ Travel dates
 The number of travelers
 Once a customer selects a seat and completes the booking process, an itinerary is displayed.
 The customer is redirected to a payment page showing the total price. Once they confirm payment, the seat is marked as sold.
-An email containing the flight itinerary is sent to the customer upon successful booking.
+An email containing the flight itinerary is sent to the customer upon successful booking
